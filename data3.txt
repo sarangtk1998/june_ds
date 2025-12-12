@@ -1,2 +1,8 @@
 
 x = 7
+
+
+
+name = 'raju'
+place = 'kozhikode'
+age = 24
